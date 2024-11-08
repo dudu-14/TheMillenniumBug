@@ -2,7 +2,8 @@
 #pragma execution_character_set("utf-8")
 #define _CRT_SECURE_NO_WARNINGS
 #endif
-// 原作者:Bilibili-SYSTEM-RAMOS-ZDY
+// 原作者:Bilibili- SYSTEM-RAMOS-ZDY
+// 搬运工:Bilibili- 我最牛逼克拉斯/GitHub- dudu-14
 #include <cstdio>
 #include <windows.h>
 #include <time.h>
