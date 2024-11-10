@@ -23,5 +23,5 @@ int main()
         SetLocalTime(&system_time);
         Sleep(100);
     }
-    return 0;
+    //还返回值干啥呀？死循环！
 }
